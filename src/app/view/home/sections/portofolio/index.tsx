@@ -20,7 +20,7 @@ export default function PortfolioSection() {
             <DialogTrigger asChild>
               <Card className="bg-neutral-800 border border-yellow-400/20 hover:border-yellow-400 transition cursor-pointer">
                 <div className="p-4">
-                  <h3 className="text-lg font-semibold text-yellow-300">
+                  <h3 className="text-lg font-semibold text-yellow-400">
                     Los Pollos Hermanos
                   </h3>
                   <p className="text-sm text-gray-400">
@@ -30,7 +30,7 @@ export default function PortfolioSection() {
               </Card>
             </DialogTrigger>
             <DialogContent className="bg-neutral-900 border border-yellow-400/10 text-white max-w-xl">
-              <DialogTitle className="text-xl font-bold text-yellow-300">
+              <DialogTitle className="text-xl font-bold text-yellow-400">
                 Los Pollos Hermanos — Rebrand
               </DialogTitle>
               <div>
