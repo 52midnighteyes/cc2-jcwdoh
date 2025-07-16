@@ -64,7 +64,7 @@ export default function PortfolioSection() {
               </Card>
             </DialogTrigger>
             <DialogContent className="bg-neutral-900 border border-yellow-400/10 text-white max-w-xl">
-              <DialogTitle className="text-xl font-bold text-yellow-300">
+              <DialogTitle className="text-xl font-bold text-yellow-400">
                 Hamlin, Hamlin & McGill — Site Revamp
               </DialogTitle>
               <p className="text-sm text-gray-300 mt-4 leading-relaxed">
@@ -80,7 +80,7 @@ export default function PortfolioSection() {
             <DialogTrigger asChild>
               <Card className="bg-neutral-800 border border-yellow-400/20 hover:border-yellow-400 transition cursor-pointer">
                 <div className="p-4">
-                  <h3 className="text-lg font-semibold text-yellow-300">
+                  <h3 className="text-lg font-semibold text-yellow-400">
                     This Site
                   </h3>
                   <p className="text-sm text-gray-400">
@@ -90,7 +90,7 @@ export default function PortfolioSection() {
               </Card>
             </DialogTrigger>
             <DialogContent className="bg-neutral-900 border border-yellow-400/10 text-white max-w-xl">
-              <DialogTitle className="text-xl font-bold text-yellow-300">
+              <DialogTitle className="text-xl font-bold text-yellow-400">
                 This Site — Built by Me
               </DialogTitle>
               <p className="text-sm text-gray-300 mt-4 leading-relaxed">
